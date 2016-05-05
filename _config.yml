@@ -1,0 +1,28 @@
+name: Dadfat
+favicon: null
+layout_spectrum: 0.4450864801183343
+typography_spectrum: 0.947912520263344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8765289038419724
+  lightness: 0.02236996777355671
+  saturation: 0.5611667430493981
+  rhythmicContrast: 0.670952906133607
+purpose: []
