@@ -1,5 +1,8 @@
-title: Dad Fat. Where love handles are welcomed.
-purpose: []
+name: Dadfat
+favicon: null
+layout_spectrum: 0.3189964
+typography_spectrum: 0.37043
+title: Dad Fat
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.125
-  rhythmicContrast: 0.5
   brandColors:
     - '#f9f7f8'
     - '#dae2ef'
     - '#4072af'
     - '#102d4d'
     - '#254a78'
+  brandStrength: 0.125
   lightness: 0.9375
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Dadfat
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.37043
-layout_spectrum: 0.3189964
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
