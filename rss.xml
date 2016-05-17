@@ -4,7 +4,7 @@
         <description><![CDATA[Dad Fat]]></description>
         <link>https://thegrid.ai/dadfat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 01:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 01:10:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dadfat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dad fat. ]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/dadfat/supplements/index.html</link>
             <guid isPermaLink="false">6e4c2d23-c488-41f5-83b5-cd744dcd3175</guid>
             <pubDate>Tue, 17 May 2016 01:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4640dd26-c420-4ec7-88f8-edec6a8a2494.jpg">]]></description>
-            <link>https://thegrid.ai/dadfat/tools/index.html</link>
-            <guid isPermaLink="false">20c1788c-2955-46f7-a762-fcf935df2d80</guid>
-            <pubDate>Fri, 06 May 2016 17:52:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
